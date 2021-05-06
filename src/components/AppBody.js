@@ -6,13 +6,6 @@ import AppFooter from './AppFooter';
 const body = () => {
     return(
         <div style={{paddingBottom: "1.25%", textAlign: 'left'}}>
-        <div id="cv" style={{marginLeft: "1.25%"}}>
-            <ul style={{listStyleType: "none", width: "5%"}}>
-                <a href="#"><li id="projects">My Projects</li></a>
-                <a href="#"><li id="cv">My C.V.</li></a>
-                <a href="#"><li id="aboutMe">About Me</li></a>
-            </ul>
-        </div>
         <div id="about">
             <h1 style={{textAlign: 'left', marginLeft: "2.5%"}}>About Me</h1>
             <p style={{marginLeft: "2.5%"}}>

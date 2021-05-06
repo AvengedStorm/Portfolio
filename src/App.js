@@ -6,6 +6,12 @@ import AppHeader from './components/AppHeader';
 import AppBody from './components/AppBody';
 import AppFooter from './components/AppFooter';
 import background from './images/background.jpg'
+import {
+  BrowserRouter as Router,
+  Switch,
+  Route,
+  Link
+} from "react-router-dom";
 
 function App() {
   return (
