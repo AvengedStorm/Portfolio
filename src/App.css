@@ -1,3 +1,8 @@
+a, .button{
+  text-decoration: none;
+  max-width: 5vw !important;
+}
+
 a:link {
   color: black;
 }
@@ -12,4 +17,8 @@ a:hover {
 
 a:active {
   color: blue;
+}
+
+.projects a {
+  max-width: 5vw;
 }
