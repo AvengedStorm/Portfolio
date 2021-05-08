@@ -16,9 +16,9 @@ a:hover {
 }
 
 a:active {
-  color: blue;
+  color: crimson;
 }
 
 .projects a {
-  max-width: 5vw;
+  width: 5vw;
 }

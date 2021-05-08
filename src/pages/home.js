@@ -10,8 +10,7 @@ const elem = (props) => {
                 My name is Omri jukin,<br />
                 I'm 24 years old certified electrician,<br />
                 Currently a web and FullStack developer since 02/2021,<br />
-                Every other detail about my life,<br />
-                For that, we'll have to grab a cup of coffee :).
+                A story and song writer.
             </p>
         </div>
         </div>
