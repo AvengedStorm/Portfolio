@@ -27,8 +27,8 @@ const footer = () => {
                 <a href="#"><img style={baseStyle} src={instagram_icon} onClick={openLink.bind(null,'https://www.instagram.com/x.omri.j')}></img></a>
                 <a href="#"><img style={baseStyle} src={facebook_icon} onClick={openLink.bind(null, 'https://www.facebook.com/omri.jukin')}></img></a>
                 <a href="#"><img style={baseStyle} src={twitter_icon} onClick={openLink.bind(null, 'https://twitter.com/Moon_L3tters')}></img></a>
-                <a href="#"><img style={{...baseStyle, width: "40px", marginRight: "0.25%"}} src={whatsapp_icon} onClick={openLink.bind(null, 'https://api.whatsapp.com/send?phone=972523344064')}></img></a>
                 <a href="#"><img style={baseStyle} src={gmail_icon} onClick={openLink.bind(null, 'mailto:DJCreeperNo1@gmail.com')}></img></a>
+                <a href="#"><img style={{...baseStyle, width: "40px", marginRight: "0.25%"}} src={whatsapp_icon} onClick={openLink.bind(null, 'https://api.whatsapp.com/send?phone=972523344064')}></img></a>
                 <a href="#"><img style={baseStyle} src={messenger_icon} onClick={openLink.bind(null, 'https://m.me/omri.jukin')}></img></a>
             </div>
         </div>

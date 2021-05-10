@@ -4,8 +4,7 @@ import ReactDOM from 'react-dom';
 const WorkExpArr = [
 "HOT Public Inquiries Coordinator ~ 2020-2021 ~ רכז המחלקת פניות ציבור בהוט",
 "Machine Operator ~ 2019-2020 ~ מפעיל מכונה",
-"Parking Attendant at Turner Stadium ~ 2017 ~ סדרן חניות באיצטדיון טרנר",
-"Frontal Customer Services ~ 2016 ~ שירות לקוחות פרונטלי"
+"Frontal Customer Services ~ 2015-2017 ~ שירות לקוחות פרונטלי בחברות שונות"
 ]
 
 const certificationsArr = [
