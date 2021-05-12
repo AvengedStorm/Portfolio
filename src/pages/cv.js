@@ -2,7 +2,7 @@ import react from 'react';
 import ReactDOM from 'react-dom';
 
 const WorkExpArr = [
-"HOT Public Inquiries Coordinator ~ 2020-2021 ~ רכז המחלקת פניות ציבור בהוט",
+"HOT Public Inquiries Coordinator ~ 2020-2021 ~ רכז במחלקת פניות ציבור בהוט",
 "Machine Operator ~ 2019-2020 ~ מפעיל מכונה",
 "Frontal Customer Services ~ 2015-2017 ~ שירות לקוחות פרונטלי בחברות שונות"
 ]
