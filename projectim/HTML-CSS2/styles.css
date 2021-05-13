@@ -1,0 +1,154 @@
+h1 {
+    color: white;
+    text-align: center;
+    border: 1px solid lavender;
+    border-radius: 5px;
+  }
+  
+  h2 {
+    color: white;
+    text-align: center;
+    margin: 60px 0;
+    border: 1px solid lavender;
+    border-radius: 5px;
+  }
+  
+  h3 {
+    color: lavender;
+    text-align: center;
+    margin: 50px 0;
+    border: 1px solid lavender;
+    border-radius: 5px;
+  }
+  
+  p {
+      color: lavender;
+      font-size: 18px;
+      text-align: center;
+  }
+  
+  .li1 {
+      color: BlueViolet;
+      font-weight: bold;
+      font-size: 18px;
+      text-align: center;
+  }
+  .li2 {
+      color: darkmagenta;
+      font-weight: bold;
+      font-size: 18px;
+      text-align: center;
+  }
+  .li3 {
+      color: firebrick;
+      font-weight: bold;
+      font-size: 18px;
+      text-align: center;
+  }
+  
+  .li4 {
+      font-size: 15px;
+      color: white;
+      text-align: center;
+  }
+  
+  .li5 {
+      font-size: 18px;
+      color: white;
+      text-align: center;
+  }
+  
+  .li6 {
+      font-size: 21px;
+      color: white;
+      text-align: center;
+  }
+  
+  .box1 {
+      font-size: 15px;
+      color: black;
+      background-color: ivory;   
+      display: inline;
+      width: 25%;
+      padding: 20px 30px;
+      display: block;
+      margin: 0 auto;
+      right: 10%;
+  }
+  
+  .box2 {
+      font-size: 15px;
+      color: black;
+      background-color: gray;   
+      display: inline;
+      width: 25%;
+      padding: 20px 30px;
+      display: block;
+      margin: 0 auto;
+  }
+  
+  .box3 {
+      font-size: 15px;
+      color: black;
+      background-color: lavender;   
+      display: inline;
+      width: 25%;
+      padding: 20px 30px;
+      display: block;
+      margin: 0 auto;
+  }
+  
+  html {
+      background-image: url(https://dubaimonsters.com/wp-content/uploads/2018/04/High-Resolution-Background-Images.jpg);
+  }
+  
+  @font-face {
+    font-family: 'Antic Slab';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/anticslab/v9/bWt97fPFfRzkCa9Jlp6IacVcXA.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+  
+  @font-face {
+    font-family: 'Cinzel';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/cinzel/v11/8vIU7ww63mVu7gtR-kwKxNvkNOjw-tbnfY3lDQ.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+  
+  @font-face {
+    font-family: 'Cormorant Unicase';
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/cormorantunicase/v10/HI_ViZUaILtOqhqgDeXoF_n1_fTGX9N_ttco5m0.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+  
+    .li10 {
+      font-family: 'cormorant unicase';
+      font-weight: bold;
+      font-size: 24px;
+      color: white;
+      text-align: center;
+    }
+  
+    .li11 {
+      font-family: 'antic slab';
+      font-weight: bold;
+      font-size: 24px;
+      color: white;
+      text-align: center;
+    }
+  
+    .li12 {
+      font-family: 'cinzel';
+      font-weight: bold;
+      font-size: 24px;
+      color: white;
+      text-align: center;
+    }

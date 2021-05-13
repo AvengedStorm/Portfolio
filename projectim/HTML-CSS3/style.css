@@ -1,0 +1,106 @@
+html {
+    font-family: Helvetica;
+    font-size: 22px;
+    color: seashell;
+    background-color: black;
+    opacity: 0.9;
+}
+
+nav img {
+    display: inline-block;
+    height: 50px;
+    padding: 10 auto;
+}
+
+nav a {
+    text-decoration: underline;
+}
+
+.background {
+    background-image: url('https://content.codecademy.com/courses/freelance-1/unit-4/img-mission-background.jpg');
+    height: 700px;
+    width: 95%;
+}
+
+.background h2 {
+    background-color: black;
+    text-align: center;
+    align-content: center;
+}
+
+.background h4 {
+    background-color: black;
+    text-align: center;
+    align-content: center;
+    margin-top: 350px;
+}
+
+#featured h2,
+#featured h4 {
+    text-align: center;
+}
+
+#featured div {
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+img {
+    width: 300px;
+    height: 200px;
+}
+
+.locations {
+    background-image: url('https://content.codecademy.com/courses/freelance-1/unit-4/img-locations-background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+    margin: 40px;
+}
+
+.locations h2 {
+    background-color: black;
+    text-align: center;
+    margin: 50px 20px;
+}
+
+
+.location1 {
+    background-color: black;
+    width: 300px;
+    height: 300px;
+    display: inline-block;
+    margin: 0.5% 7.5%;
+    text-align: center;
+}
+
+.location2 {
+    background-color: black;
+    width: 300px;
+    height: 300px;
+    display: inline-block;
+    margin: 0.5% 7.5%;
+    text-align: center;
+}
+
+.location3 {
+    background-color: black;
+    width: 300px;
+    height: 300px;
+    display: inline-block;
+    margin: 0.5% 7.5%;
+    text-align: center;
+}
+
+footer h2 {
+    text-align: center;
+}
+
+footer h5 {
+    text-align: center;
+}
+
+.copyright h5 {
+    text-align: left;
+}
