@@ -14,23 +14,19 @@ import About from "./../pages/about";
 import Projects from "./../pages/projects";
 
 
-const body = () => {
-    return (
-    <Switch>
-        <Route path="/cv">
-            <CV />
-        </Route>
-        <Route path="/projects">
-            <Projects />
-        </Route>
-        <Route path="/about">
-            <About />
-        </Route>
-        <Route path="/">
-            <Home />
-        </Route>
-    </Switch>
-    )
+const body = (props) => {
+    console.log(props)
+
+    switch(props.page) {
+        case "/projects":
+            return <Projects />;
+        case "/about":
+            return <About />;
+        case "/cv":
+            return <CV />
+        default:
+            return <Home />;
+    }
 }
 
 export default body;
