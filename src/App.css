@@ -8,8 +8,9 @@
   cursor: url("./images/gmsNormalMouse.png"), auto;
 }
 
-a {
+a:hover {
   cursor: url("./images/gmsPressedDownMouse.png"), pointer;
+  color: crimson;
 }
 
 a, .button{
@@ -23,10 +24,6 @@ a:link {
 
 a:visited {
   color: black;
-}
-
-a:hover {
-  color: crimson;
 }
 
 a:active {
