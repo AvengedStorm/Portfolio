@@ -17,7 +17,8 @@ const elem = (props) => {
                 <a id="button" href="/Portfolio/projectim/HTML-CSS2/index.html"><li>A style-guide</li></a>
                 <a id="button" href="/Portfolio/projectim/HTML-CSS-JS1/index.html"><li>A music guide for Happy B-Day song</li></a>
                 <a id="button" href="/Portfolio/projectim/HTML-CSS3/index.html"><li>TeAdventures</li></a>
-                <a href="https://avengedstorm.github.io/appocon/"><li>AppoCon</li></a>
+                <a id="button" href="https://avengedstorm.github.io/appocon/"><li>AppoCon</li></a>
+                <a id="button" href="https://avengedstorm.github.io/reddit-client/"><li>Reddit Client Project</li></a>
             </ul>
         </div>
     )
