@@ -24,7 +24,7 @@ const footer = () => {
         <div style={{textAlign: 'left', marginLeft: "2.5%"}}>
             <h1>Contact Info:</h1>
             <div id='contact'>
-                <a href="#"><img style={baseStyle} src={instagram_icon} onClick={openLink.bind(null,'https://www.instagram.com/x.omri.j')}></img></a>
+                <a href="#"><img style={baseStyle} src={instagram_icon} onClick={openLink.bind(null,'https://www.instagram.com/omri.x.x')}></img></a>
                 <a href="#"><img style={baseStyle} src={facebook_icon} onClick={openLink.bind(null, 'https://www.facebook.com/omri.jukin')}></img></a>
                 <a href="#"><img style={baseStyle} src={twitter_icon} onClick={openLink.bind(null, 'https://twitter.com/Moon_L3tters')}></img></a>
                 <a href="#"><img style={baseStyle} src={gmail_icon} onClick={openLink.bind(null, 'mailto:DJCreeperNo1@gmail.com')}></img></a>
